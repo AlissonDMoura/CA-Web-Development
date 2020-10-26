@@ -49,4 +49,4 @@
 </nav>
 
 <!-- Piece of code to be used with php's funcion 'include' into every page for this CA 
-cootstrap refference: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css-->
+Bootstrap refference: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css-->
