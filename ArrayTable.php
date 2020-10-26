@@ -55,7 +55,7 @@
 </div>
 
 <?php include('include/footer.php');?>
-<!--apply my footer -->
+<!--apply my footer. -->
 
 </body>
 </html>
